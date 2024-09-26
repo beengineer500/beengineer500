@@ -26,6 +26,7 @@
 ![Amazon Web Service](https://img.shields.io/badge/AmazonWebServices-232F3E.svg?&style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)<br>
+![terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
