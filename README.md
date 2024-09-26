@@ -10,6 +10,7 @@
 <!-- Body -->
 
 ## 🌱 Skills
+<!-- stack badge image : https://simpleicons.org -->
 
 
 ### ⚙️ Lang and Frameworks <br>
