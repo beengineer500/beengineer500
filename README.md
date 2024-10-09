@@ -6,9 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssur4&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🧑‍💻 안녕하세요!
-보안을 갖춘 견고한 클라우드 아키텍처를 추구하며,
-지속적인 도전과 책임감 있는 문제 해결로 성장하는 
-주니어 클라우드 엔지니어 손빈 (SON BEEN) 입니다.
+보안을 갖춘 견고한 클라우드 아키텍처를 추구하며,<br>
+지속적인 도전과 책임감 있는 문제 해결로 성장하는 주니어 클라우드 엔지니어 손빈 (SON BEEN) 입니다.
 
 <!-- Body -->
 
