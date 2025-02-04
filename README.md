@@ -34,6 +34,11 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)
 
+
+## ✅ Certified
+<img src="https://github.com/ssur4/AWS-SAA/blob/f5310cff6c50b284acfc9edd5c01d6003f8f0258/AWS-SAA_Badge.png" width="200">
+
+
 <!--
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
