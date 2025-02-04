@@ -9,7 +9,7 @@
 보안을 갖춘 견고한 클라우드 아키텍처를 추구하며,<br>
 지속적인 도전과 책임감 있는 문제 해결로 성장하는 주니어 클라우드 엔지니어 **손빈 (SON BEEN)** 입니다.
 
-<br>
+<br></br>
 <!-- Body -->
 
 ## 🌱 Skills
@@ -35,7 +35,7 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)
 
-<br>
+<br></br>
 
 ## ✅ Certified
 <img src="https://github.com/ssur4/AWS-SAA/blob/f5310cff6c50b284acfc9edd5c01d6003f8f0258/AWS-SAA_Badge.png" width="200">
