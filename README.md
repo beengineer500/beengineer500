@@ -12,7 +12,8 @@
 클라우드의 유연함과 효율성에 매력을 느껴 IT 분야에 도전을 하고, 몸으로 직접 겪는 중입니다.<br>
 1개를 알게 되니, 10개가 궁금한 호기심이 넘치는 시간을 보내고 있습니다.<br>
 
-최근 관심사는 AWS Network, k8s Architecture, ShellScript 이며 학습 진행 중입니다!
+최근 관심사는 AWS Network, k8s Architecture, ShellScript 와 CKA 자격증 취득이고
+현재, 학습 진행 중입니다!
 
 
 <br>
