@@ -6,8 +6,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssur4&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🧑‍💻 안녕하세요!
-보안을 갖춘 견고한 클라우드 아키텍처를 추구하며,<br>
-지속적인 도전과 책임감 있는 문제 해결력을 바탕으로 성장하는 클라우드 엔지니어 **손빈 (SON BEEN)** 입니다.<br>
+보안을 갖춘 견고한 인프라 아키텍처를 추구하며,<br>
+지속적인 도전과 책임감 있는 문제 해결력을 바탕으로 성장하는 엔지니어 **손빈 (SON BEEN)** 입니다.<br>
+
 
 클라우드의 유연함과 효율성에 매력을 느껴 IT 분야에 도전을 하고, 몸으로 직접 겪는 중입니다.<br>
 1개를 알게 되니, 10개가 궁금한 호기심이 넘치는 시간을 보내고 있습니다.<br>
