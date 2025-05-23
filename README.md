@@ -45,7 +45,6 @@
 
 ## ✅ Certified
 <img src="https://github.com/ssur4/AWS-SAA/blob/f5310cff6c50b284acfc9edd5c01d6003f8f0258/AWS-SAA_Badge.png" width="200">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f68c7c78-b90c-4a4e-b042-1dc33845e074" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <!--
