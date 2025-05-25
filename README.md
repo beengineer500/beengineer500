@@ -23,9 +23,9 @@
 <br>
 
 ## 📚 Education
-* [LikeLion] Cloud Engineering School
+* <b>[LikeLion] Cloud Engineering School</b>
   - 2024-06 ~ 2024-11
-* [Korea Aerospace University] Department of Avionics
+* <b>[Korea Aerospace University] Department of Avionics</b>
   - 2017-03 ~ 2021-02
 <br>
 
