@@ -17,7 +17,7 @@
 
 <!-- Body -->
 ## 🚶 Experience
-* [Republic of Korea Air Force] Information & Communication Officer
+* <b>[Republic of Korea Air Force] Information & Communication Officer</b>
   - 3rd Missile Defense Brigade
   - 2021-03 ~ 2024-02
 <br>
