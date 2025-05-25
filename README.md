@@ -54,7 +54,7 @@
 
 ### ☁️ Cloud <br>
 ![Amazon Web Service](https://img.shields.io/badge/AmazonWebServices-232F3E.svg?&style=for-the-badge&logo=AmazonWebServices&logoColor=white)
-<!--![openstack](https://img.shields.io/badge/openstack-ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white)--><br>
+<!--![openstack](https://img.shields.io/badge/openstack-ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white)-->
 <br>
  
 ### ♾️ DevOps <br>
