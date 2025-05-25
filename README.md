@@ -65,9 +65,10 @@
 
 ## ✅ Certified
 <span>
- **AWS Certified Solutions Architect – Associate (SAA)**<br>
- **AWS Certified Solutions Architect – Associate (SAA)**<br>
- **AWS Certified Solutions Architect – Associate (SAA)**<br>
+ #### AWS Certified Solutions Architect – Associate (SAA)<br>
+ #### AWS Certified Solutions Architect – Associate (SAA)<br>
+ #### AWS Certified Solutions Architect – Associate (SAA)<br>
+ <br>
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/aws-certified-solutions-architect-associate.png" width="150">
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/hpe-atp-hybrid-cloud.png" width="150">
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5a18616458f5022ac7d7e5c5937946e034fe1847/0.%20Badges/hpe-solution-certified-private-cloud-ai.png" width="150">
