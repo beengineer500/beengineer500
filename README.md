@@ -33,6 +33,7 @@
 ![RedHat](https://img.shields.io/badge/RedHat-EE0000.svg?&style=for-the-badge&logo=RedHat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
 ![rockylinux](https://img.shields.io/badge/rockylinux-10B981.svg?&style=for-the-badge&logo=rockylinux&logoColor=white)
+![gnubash](https://img.shields.io/badge/gnubash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ![HPE](https://img.shields.io/badge/hp-01a982.svg?&style=for-the-badge&logo=hp&logoColor=white)
 ![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)<br>
 <br>
