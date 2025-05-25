@@ -40,7 +40,9 @@
 
 ### 🛠️ OS & Server <br>
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000.svg?&style=for-the-badge&logo=RHEL&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000.svg?&style=for-the-badge&logo=RedHat&logoColor=white)
+
+
 
 ### 🛠️ Cloud <br>
 ### 🛠️ DevOps <br>
