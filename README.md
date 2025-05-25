@@ -30,12 +30,23 @@
  -->
 
 ### 🛠️ Infra and Tools <br>
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+
 ![Amazon Web Service](https://img.shields.io/badge/AmazonWebServices-232F3E.svg?&style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)<br>
 ![terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+
+### 🛠️ OS & Server <br>
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000.svg?&style=for-the-badge&logo=RHEL&logoColor=white)
+
+### 🛠️ Cloud <br>
+### 🛠️ DevOps <br>
+### 🛠️ Infrastructure as Code (IaC) <br>
+### 🛠️ Collaboration & Others <br>
+
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)
@@ -45,9 +56,9 @@
 ## ✅ Certified
 <!-- <img src="https://github.com/ssur4/AWS-SAA/blob/f5310cff6c50b284acfc9edd5c01d6003f8f0258/AWS-SAA_Badge.png" width="200"> -->
 <span>
-<img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/aws-certified-solutions-architect-associate.png" width="200">
-<img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/hpe-atp-hybrid-cloud.png" width="200">
-<img src="https://github.com/beengineer500/Z.Attachments/blob/5a18616458f5022ac7d7e5c5937946e034fe1847/0.%20Badges/hpe-solution-certified-private-cloud-ai.png" width="200">
+<img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/aws-certified-solutions-architect-associate.png" width="150">
+<img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/hpe-atp-hybrid-cloud.png" width="150">
+<img src="https://github.com/beengineer500/Z.Attachments/blob/5a18616458f5022ac7d7e5c5937946e034fe1847/0.%20Badges/hpe-solution-certified-private-cloud-ai.png" width="150">
 </span>
 
 
