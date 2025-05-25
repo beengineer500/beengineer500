@@ -16,7 +16,12 @@
 <br>
 
 <!-- Body -->
-## 🚶 Experience
+## 🤖 Project
+* <b>[AWS based Hybrid Cloud Infrastructure](https://github.com/beengineer500/2024-Final-PJT)</b>
+  - 2024-09 ~ 2024-11
+
+
+## 🚶 Experiences
 * <b>[Republic of Korea Air Force] Information & Communication Officer</b>
   - 3rd Missile Defense Brigade
   - 2021-03 ~ 2024-02
