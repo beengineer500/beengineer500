@@ -17,21 +17,24 @@
 
 <!-- Body -->
 ## 🤖 Project
-* <b>[AWS based Hybrid Cloud Infrastructure](https://github.com/beengineer500/2024-Final-PJT)</b>
-  - 2024-09 ~ 2024-11
-
+* **[AWS based Hybrid Cloud Infrastructure](https://github.com/beengineer500/2024-Final-PJT)**
+  * **Duration :** 2024-09 ~ 2024-11
+  * **Role :**
+    * Project Leader
+    * AWS Infra Engineering
+    * Kubernetes Cluster Deployment
+<br>
 
 ## 🚶 Experiences
-* <b>[Republic of Korea Air Force] Information & Communication Officer</b>
-  - 3rd Missile Defense Brigade
-  - 2021-03 ~ 2024-02
+* **[Republic of Korea Air Force] Information & Communication Officer**
+  * **Duration :** 2021-03 ~ 2024-02
 <br>
 
 ## 📚 Education
-* <b>[LikeLion] Cloud Engineering School</b>
-  - 2024-06 ~ 2024-11
-* <b>[Korea Aerospace University] Department of Avionics</b>
-  - 2017-03 ~ 2021-02
+* **[LikeLion] Cloud Engineering School**
+  * **Duration :** 2024-06 ~ 2024-11
+* **[Korea Aerospace University] Department of Avionics**
+  * **Duration :** 2017-03 ~ 2021-02
 <br>
 
 <!--
