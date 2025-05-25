@@ -15,7 +15,6 @@
 <br>
 
 <!-- Body -->
-## 💎 Experience
 ## 🚶 Experience
 * [Republic of Korea Air Force] Information & Communication Officer
   - 3rd Missile Defense Brigade
