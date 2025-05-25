@@ -54,15 +54,17 @@
 
 ### ☁️ Cloud <br>
 ![Amazon Web Service](https://img.shields.io/badge/AmazonWebServices-232F3E.svg?&style=for-the-badge&logo=AmazonWebServices&logoColor=white)
-![openstack](https://img.shields.io/badge/openstack-ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white)<br>
+<!--![openstack](https://img.shields.io/badge/openstack-ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white)--><br>
 <br>
  
 ### ♾️ DevOps <br>
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![amazoneks](https://img.shields.io/badge/amazoneks-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)<br>
+<!--
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![argo](https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white)<br>
+-->
 <br>
 
 ### 💻 Infrastructure as Code (IaC) <br>
