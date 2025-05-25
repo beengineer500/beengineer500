@@ -17,7 +17,7 @@
 <br>
 <!-- Body -->
 
-## 🌱 Skills
+## 🚀 Tech Stack
 <!-- stack badge image : https://simpleicons.org -->
 
 
@@ -28,7 +28,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
  -->
-### 🛠️ OS & Server <br>
+### 🐧 OS & Server <br>
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![RedHat](https://img.shields.io/badge/RedHat-EE0000.svg?&style=for-the-badge&logo=RedHat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
@@ -37,12 +37,12 @@
 ![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)<br>
 <br>
 
-### 🛠️ Cloud <br>
+### ☁️ Cloud <br>
 ![Amazon Web Service](https://img.shields.io/badge/AmazonWebServices-232F3E.svg?&style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![openstack](https://img.shields.io/badge/openstack-ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white)<br>
 <br>
  
-### 🛠️ DevOps <br>
+### ♾️ DevOps <br>
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![amazoneks](https://img.shields.io/badge/amazoneks-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
@@ -50,11 +50,11 @@
 ![argo](https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white)<br>
 <br>
 
-### 🛠️ Infrastructure as Code (IaC) <br>
+### 💻 Infrastructure as Code (IaC) <br>
 ![terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)<br>
 <br>
 
-### 🛠️ Collaboration & Others <br>
+### 🌿 Collaboration & Others <br>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)
