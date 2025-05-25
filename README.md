@@ -32,7 +32,7 @@
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![RedHat](https://img.shields.io/badge/RedHat-EE0000.svg?&style=for-the-badge&logo=RedHat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
-![rockylinux](https://img.shields.io/badge/rockylinux-10B981.svg?&style=for-the-badge&logo=rockylinux&logoColor=white)<br>
+![rockylinux](https://img.shields.io/badge/rockylinux-10B981.svg?&style=for-the-badge&logo=rockylinux&logoColor=white)
 ![HPE](https://img.shields.io/badge/hp-01a982.svg?&style=for-the-badge&logo=hp&logoColor=white)
 ![nvidia](https://img.shields.io/badge/nvidia-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)<br>
 <br>
@@ -64,8 +64,8 @@
 <br>
 
 ## ✅ Certified
-<!-- <img src="https://github.com/ssur4/AWS-SAA/blob/f5310cff6c50b284acfc9edd5c01d6003f8f0258/AWS-SAA_Badge.png" width="200"> -->
 <span>
+ - **AWS Certified Solutions Architect – Associate (SAA)**
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/aws-certified-solutions-architect-associate.png" width="150">
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5f0794583eaa2f4a3c0f04eba08291009ba429fa/0.%20Badges/hpe-atp-hybrid-cloud.png" width="150">
 <img src="https://github.com/beengineer500/Z.Attachments/blob/5a18616458f5022ac7d7e5c5937946e034fe1847/0.%20Badges/hpe-solution-certified-private-cloud-ai.png" width="150">
