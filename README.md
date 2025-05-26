@@ -67,9 +67,11 @@
 -->
 <br>
 
+<!--
 ### 💻 Infrastructure as Code (IaC) <br>
 ![terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)<br>
 <br>
+-->
 
 ### 🌿 Collaboration & Others <br>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
