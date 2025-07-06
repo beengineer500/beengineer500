@@ -10,7 +10,7 @@
 클라우드의 유연함에 매력을 느껴 IT 분야에 도전 했고, 현재는 시스템 엔지니어로 일하고 있습니다.<br>
 1개를 배우니, 5개가 궁금해지는 호기심 넘치는 시간을 보내고 있습니다.<br>
 
-최근 관심사는 Linux, Shell Script, Kubernetes, OpenStack 이고<br>
+최근 관심사는 Linux, Shell Script, Kubernetes, IaC(Terraform, Vagrant)이고<br>
 매일 잔디를 심으며 학습에 몰입 중입니다!
 
 <br>
