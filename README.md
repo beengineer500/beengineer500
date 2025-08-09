@@ -25,7 +25,9 @@
     * Kubernetes Cluster Deployment
 <br>
 
-## 🚶 Experiences
+## 🚶 Career
+* **[Hazelsys] System Engineer**
+  * **Duration :** 2024-11 ~
 * **[Republic of Korea Air Force] Information & Communication Officer**
   * **Duration :** 2021-03 ~ 2024-02
 <br>
