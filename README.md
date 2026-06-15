@@ -26,8 +26,10 @@
 <br>
 
 ## 🚶 Career
+* **[Moreh] System Engineer**
+  * **Duration :** 2026-06 ~
 * **[Hazelsys] System Engineer**
-  * **Duration :** 2024-11 ~
+  * **Duration :** 2024-11 ~ 2026-05
 * **[Republic of Korea Air Force] Information & Communication Officer**
   * **Duration :** 2021-03 ~ 2024-02
 <br>
